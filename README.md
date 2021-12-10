@@ -9,7 +9,7 @@ Any other circut that creates a high enough frequency at 5V should be suitable t
 
 recalculate electrical component-values of the passive frequency filters (Tiefpass + Hochpass) using this formula:
 
-f = 1/(2*Pi*R*C)
+f = 1/(2 * Pi * R * C)
 
 f~16kHz
 
