@@ -1,2 +1,2 @@
 # VLCOM-AM
-Arduino based Visual-Light-Communication (Amplitude-Modulated)
+Arduino based amplitude-modulated Visual-Light-Communication
